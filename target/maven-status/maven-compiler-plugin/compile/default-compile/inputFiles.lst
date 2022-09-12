@@ -1,6 +1,6 @@
-E:\Aqib_Stuff\JavaProject\student-management-system-springboot-main\src\main\java\net\javaguides\sms\service\StudentService.java
-E:\Aqib_Stuff\JavaProject\student-management-system-springboot-main\src\main\java\net\javaguides\sms\service\impl\StudentServiceImpl.java
-E:\Aqib_Stuff\JavaProject\student-management-system-springboot-main\src\main\java\net\javaguides\sms\repository\StudentRepository.java
-E:\Aqib_Stuff\JavaProject\student-management-system-springboot-main\src\main\java\net\javaguides\sms\StudentManagementSystemApplication.java
-E:\Aqib_Stuff\JavaProject\student-management-system-springboot-main\src\main\java\net\javaguides\sms\controller\StudentController.java
-E:\Aqib_Stuff\JavaProject\student-management-system-springboot-main\src\main\java\net\javaguides\sms\entity\Student.java
+/home/ec2-user/Springboot/src/main/java/net/javaguides/sms/repository/StudentRepository.java
+/home/ec2-user/Springboot/src/main/java/net/javaguides/sms/service/StudentService.java
+/home/ec2-user/Springboot/src/main/java/net/javaguides/sms/StudentManagementSystemApplication.java
+/home/ec2-user/Springboot/src/main/java/net/javaguides/sms/entity/Student.java
+/home/ec2-user/Springboot/src/main/java/net/javaguides/sms/controller/StudentController.java
+/home/ec2-user/Springboot/src/main/java/net/javaguides/sms/service/impl/StudentServiceImpl.java
